@@ -1,5 +1,6 @@
 require_relative 'boot'
-
+require 'securerandom'
+SecureRandom.hex(16)
 require 'rails/all'
 
 # Require the gems listed in Gemfile, including any gems
