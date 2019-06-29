@@ -58,5 +58,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'jquery-rails', '~> 4.3'
 gem 'devise'
+gem 'toastr-rails'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 
