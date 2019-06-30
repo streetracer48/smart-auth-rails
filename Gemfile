@@ -48,5 +48,7 @@ gem 'bootstrap-sass', '~> 3.4.1'
 gem 'jquery-rails', '~> 4.3'
 gem 'devise'
 gem 'toastr-rails'
+gem 'omniauth'
+gem 'omniauth-facebook'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 
